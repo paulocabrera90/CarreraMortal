@@ -102,7 +102,7 @@ public class Auto {
         //this.rueda1 = r;
         if(ruedas.size()<4){
             ruedas.add(r);
-            System.out.println("Agrego una rueda");
+            System.out.println("Agrego una r12312321ueda");
         }else{
             System.out.println("El auto ya possee las 4 ruedas");
         }
